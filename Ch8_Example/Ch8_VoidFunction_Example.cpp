@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// Documentation
 void ExampleFunction();		// Function Prototype
 
 int main()

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Ch8_NumberGuess_Function_Example.cpp">
+    <ClCompile Include="Ch8_Example_Params.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
